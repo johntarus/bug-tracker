@@ -56,7 +56,7 @@ export function PageContainer({ children, title, info }: PageContainerProps) {
   return (
     <Container>
       <Head>
-        <title>ProLog - {title}</title>
+        <title>Bug-tracker - {title}</title>
         <meta name="description" content="Error monitoring" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

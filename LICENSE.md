@@ -17,7 +17,7 @@ of the Software. Any license notice or attribution required by
 the License must also include this Commons Clause License
 Condition notice.
 
-Software: Prolog App / React Job Simulator
+Software: Bug-tracker App / React Job Simulator
 
 License: Apache 2.0 with Commons Clause
 
